@@ -1,17 +1,14 @@
 # ColombiaParse
 Dani Hugo Santos Santigo 
 
-<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/864770c8-a9a3-4838-b996-1e338b83562e" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/864770c8-a9a3-4838-b996-1e338b83562e" />
 
-<img width="550" height="200" alt="image" src="https://github.com/user-attachments/assets/fec82efa-39ff-4baa-80be-287821f9f515" />
+<img width="2550" height="200" alt="image" src="https://github.com/user-attachments/assets/fec82efa-39ff-4baa-80be-287821f9f515" />
 
-<img width="254" height="174" alt="image" src="https://github.com/user-attachments/assets/fd3ed7ec-f725-4281-866e-86c27b15323e" />
-
-<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/f504effb-6c04-4aab-a87b-5b590763c09a" />
-
-<img width="550" height="200" alt="image" src="https://github.com/user-attachments/assets/28134389-cee4-4fab-a053-e44ec1c11c9c" />
+<img width="2550" height="200" alt="image" src="https://github.com/user-attachments/assets/28134389-cee4-4fab-a053-e44ec1c11c9c" />
 
 <img width="1267" height="1037" alt="image" src="https://ichef.bbci.co.uk/ace/ws/640/amz/worldservice/live/assets/images/2014/02/06/140206183224_mono_travieso_promos_624x351_spl.jpg.webp" />
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/3b4d525c-ae8f-44ed-94fa-d5fdec3a0e71" />
 
+<img width="1480" height="833" alt="image" src="https://github.com/user-attachments/assets/7c2e448d-951e-4dbe-8c2f-cc3993e8f1fa" />
