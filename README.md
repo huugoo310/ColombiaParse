@@ -1,5 +1,5 @@
 # ColombiaParse
-Dani Hugo Santos Santigo 
+Daniel, Hugo, Santos Santigo. 
 
 <img width="2550" height="200" alt="image" src="https://github.com/user-attachments/assets/864770c8-a9a3-4838-b996-1e338b83562e" />
 
