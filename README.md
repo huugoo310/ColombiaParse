@@ -25,3 +25,5 @@ Dani Hugo Santos Santigo
 
 <img width="2550" height="200" alt="image" src="https://github.com/user-attachments/assets/fb3d522d-d1d7-4189-8910-d0ec14a74b66" />
 
+<img width="2550" height="500" alt="image" src="https://github.com/user-attachments/assets/3496627a-410a-4eed-8995-b3c7f743d664" />
+
